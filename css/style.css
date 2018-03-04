@@ -185,7 +185,6 @@ textarea:focus {
 }
 
 #main-nav .navbar-header a {
-	background-color: #01b1d7;
 	color: #fff;
 }
 /*Toggle Menu*/
@@ -740,6 +739,27 @@ textarea:focus {
     padding-top: 0px;
 }
 
+#taxationservices {
+	margin-top: 100px;
+	background-attachment: scroll;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+#businessservices {
+	margin-top: 100px;
+	background-attachment: scroll;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+#corporateservices {
+	margin-top: 100px;
+	background-attachment: scroll;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
 #service .col-md-6 {
 	padding: 0;
 	
@@ -750,6 +770,27 @@ textarea:focus {
 }
 
 #service .service-heading h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	text-transform: uppercase;
+}
+
+#taxationservices .service-heading h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	text-transform: uppercase;
+}
+
+#businessservices .service-heading h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	text-transform: uppercase;
+}
+
+#corporateservices .service-heading h2 {
 	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 700;
 	font-size: 45px;
